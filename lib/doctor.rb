@@ -25,4 +25,4 @@ class Doctor
     @@all
   end
 
-en
+end
